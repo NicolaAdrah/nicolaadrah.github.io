@@ -1,15 +1,18 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Nicola Aladrah",
+    "email": "niccolo1996.na@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://nicolaadrah.github.io",
+    "summary": "I am currently working on oceanographic modeling of open 
+    boundary conditions using Julia, particularly with the Oceananigans.jl library, at OGS/SISSA, Trieste, Italy.  
+    I am also a PhD candidate at the University of Trieste, where my research will focus on applying artificial intelligence
+    to High Energy Physics, with a special emphasis on conformal field theory.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Trieste, Italy",
+      "countryCode": "IT",
       "region": ""
     },
     "profiles": [
